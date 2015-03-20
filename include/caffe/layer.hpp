@@ -298,6 +298,7 @@ class Layer {
 
   /**
    * @brief Return whether the data fetched is head of the sequence or not
+   *  What this functiion'working for ??
    */
   virtual bool IsSequenceHead() const { return true; }
 
